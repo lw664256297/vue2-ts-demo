@@ -1,0 +1,9 @@
+/**
+ * App
+ * @author zhangds <zhudachang0832@gmail.com>
+ * @date 2020-06-22 11:32:06
+ * @since 0.1.0
+ */
+
+import App from './App';
+export default App;
